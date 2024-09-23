@@ -1,4 +1,4 @@
 # ChatBot-using-Groq
 
 Groq ChatBot built using Groq API and Streamlit.
-![alt text](img.png)
+![Logo](img.png)
